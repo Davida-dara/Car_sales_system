@@ -1,0 +1,3 @@
+C:/Users/ovida/ARU OneDrive/OneDrive - Anglia Ruskin University/CarSales/cmake-build-debug/CMakeFiles/CarSales.dir
+C:/Users/ovida/ARU OneDrive/OneDrive - Anglia Ruskin University/CarSales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ovida/ARU OneDrive/OneDrive - Anglia Ruskin University/CarSales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
